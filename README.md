@@ -2,12 +2,12 @@
 The script will be used to load the artifacts from Azure Devops Account. 
 
 # Usage
---debug       Use this parameter to display the URL to download the artifact/file.  
---orgid       Use this parameter to input the Organization Id of the account.  
---projectid   Use this parameter to input the project id of the account.  
---repoid      Use this parameter to input the repository id from where artifact is to be loaded.  
---branchid    Use this parameter to input the branch id.  
---filepath    Use this parameter to input the file path.  
+--debug      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use this parameter to display the URL to download the artifact/file.  
+--orgid      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use this parameter to input the Organization Id of the account.  
+--projectid  &nbsp;&nbsp;Use this parameter to input the project id of the account.  
+--repoid     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use this parameter to input the repository id from where artifact is to be loaded.  
+--branchid   &nbsp;&nbsp;Use this parameter to input the branch id.  
+--filepath   &nbsp;&nbsp;&nbsp;&nbsp;Use this parameter to input the file path.  
 
 # Example  
 bash ali.sh --orgid "gauravmohan185" --projectid "ing" --repoid "samplerep" --branchid "1001" --filepath "test" --debug  
