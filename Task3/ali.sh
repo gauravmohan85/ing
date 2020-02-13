@@ -1,12 +1,5 @@
 #!/bin/sh
 
-#
-# script
-# 
-# please edit and use to your hearts content
-# 
-
-
 ORGID=""
 PROJECTID=""
 REPOID=""
