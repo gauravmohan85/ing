@@ -1,5 +1,7 @@
 # Introduction
-The script in Task 3 will be used to load the artifacts from Azure Devops Account. 
+The responses to Task 1 and Task 2 are in the doc file - ProgrammingTasks.docx
+Task 3 script is copied to Task3 folder and will be used to load the artifacts from Azure Devops Account.
+The details are present below.
 
 # Usage
 --debug      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use this parameter to display the URL to download the artifact/file.  
