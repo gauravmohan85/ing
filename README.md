@@ -1,5 +1,5 @@
 # Introduction
-The script will be used to load the artifacts from Azure Devops Account. 
+The script in Task 3 will be used to load the artifacts from Azure Devops Account. 
 
 # Usage
 --debug      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use this parameter to display the URL to download the artifact/file.  
