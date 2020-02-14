@@ -17,6 +17,8 @@ bash ali.sh --orgid "gauravmohan185" --projectid "ing" --repoid "samplerep" --br
 # Notes
 1) Currently the command has some url issues with Azure Devops. Will be fixed in next release.  
 2) The script needs additional enhancement to connect to Azure Key vault to get the secrets.  
+  The api key and username can be securely keep in Azure Key vault. It will need a separate shell script to interact with Azure    
+  subscription and get the access to api keys, certificates, username, passwords etc
 
 # Version
 1.0.0
